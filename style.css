@@ -40,7 +40,7 @@ body{
 .second .digit{
     color: aliceblue;
     padding: 15px;
-    border: 1px solid rgb(102, 93, 81);
+    border: 1px solid rgb(21, 24, 39);
 }
 
 .second .digit h3{
@@ -62,7 +62,7 @@ body{
     color: aliceblue;
     text-align: center;
     padding: 15px;
-    border: 1px solid rgb(102, 93, 81);
+    border: 1px solid rgb(21, 24, 39);
 }
 
 .second .digit2 h3{
@@ -74,5 +74,9 @@ body{
     text-align: center;
     color: aliceblue;
     text-align: center;
-    border: 1px solid rgb(102, 93, 81);
+    border: 1px solid rgb(21, 24, 39);
+}
+
+.second .digit4{
+    background-color: rgb(21, 24, 39);
 }
